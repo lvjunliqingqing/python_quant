@@ -1,0 +1,59 @@
+# Python
+*.pyc
+*.pyo
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+价差回测.ipynb
+练习快捷键.ipynb
+
+# IDE
+.vscode
+.idea
+*.wpr
+*.wpu
+.vs
+x64
+
+# Temp
+build
+dist
+*.local
+
+# vn.py
+.vntrader
+
+# Visual Studio intermediate files
+*.exp
+*.iobj
+*.ipdb
+*.pdb
+
+# Documents
+_build
+_static
+_templates
+
+# Misc
+.DS_Store
+
+venv/*
+
+vnpy/gateway/ctp/ctp_docs
+vnpy/event/engine_docs
+vnpy/app/risk_manager/risk_manager
+vnpy/trader/ui/widget_docs
+vnpy/chart/chart_docs
+vnpy/app/chart_wizard/chart_wizard_docs
+vnpy/app/cta_backtester/cta_backtester_docs
+vnpy/usertools/chart_test_demo.py
+vnpy/usertools/usertools_docs
+vnpy/trader/trader_docs
+outside_the_system/*
+examples/rabbitmq/*
+daemon/*
+examples/candle_chart/candle_run.py
+examples/no_ui/cta_run.py
+vnpy/app/spread_trading/strategies/basic_spread_strategy_copy.py
+vnpy/app/spread_trading/strategies/statistical_arbitrage_strategy_copy.py

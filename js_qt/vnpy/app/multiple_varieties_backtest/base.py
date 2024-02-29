@@ -1,0 +1,4 @@
+APP_NAME = "MultipleVarietiesBackTest"
+EVENT_MULTIPLE_VARIETIES_BACK_TEST_LOG = "eMultipleVarietiesBackTestLog"
+EVENT_MULTIPLE_VARIETIES_BACK_TEST_FINISHED = "eMultipleVarietiesBackTestFinished"
+EVENT_MULTIPLE_VARIETIES_BACK_OPTIMIZATION_FINISHED = "eMultipleVarietiesBackTestOptimizationFinished"
