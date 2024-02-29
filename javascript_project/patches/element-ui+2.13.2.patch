@@ -1,0 +1,13 @@
+diff --git a/node_modules/element-ui/packages/form/src/label-wrap.vue b/node_modules/element-ui/packages/form/src/label-wrap.vue
+index d263f7d..f87d693 100644
+--- a/node_modules/element-ui/packages/form/src/label-wrap.vue
++++ b/node_modules/element-ui/packages/form/src/label-wrap.vue
+@@ -32,7 +32,7 @@ export default {
+     getLabelWidth() {
+       if (this.$el && this.$el.firstElementChild) {
+         const computedWidth = window.getComputedStyle(this.$el.firstElementChild).width;
+-        return Math.ceil(parseFloat(computedWidth));
++        return Math.ceil(parseFloat(computedWidth) || 0);
+       } else {
+         return 0;
+       }
