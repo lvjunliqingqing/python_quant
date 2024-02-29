@@ -1,0 +1,3 @@
+2022-01-04 20:31:32,612 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:(pymysql.err.ProgrammingError) (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'adjust="post"\' at line 1')
+[SQL: SELECT * FROM dwd_futures_price_daily WHERE trade_date=(SELECT trade_date FROM dwd_futures_price_daily ORDER BY trade_date DESC LIMIT 1) and security REGEXP ".*(9999).*" adjust="post"]
+(Background on this error at: http://sqlalche.me/e/13/f405)

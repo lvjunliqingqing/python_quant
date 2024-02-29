@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+
+</head>
+<body>
+    <div id="ee27f549e78c44949ba5153addd43c84" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_ee27f549e78c44949ba5153addd43c84 = echarts.init(
+            document.getElementById('ee27f549e78c44949ba5153addd43c84'), 'white', {renderer: 'canvas'});
+        var option_ee27f549e78c44949ba5153addd43c84 = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "scatter",
+            "name": "1990\u5e74",
+            "symbolSize": 10,
+            "data": [
+                [
+                    28604,
+                    77,
+                    17096869,
+                    "Australia"
+                ],
+                [
+                    31163,
+                    77.4,
+                    27662440,
+                    "Canada"
+                ],
+                [
+                    1516,
+                    68,
+                    1154605773,
+                    "China"
+                ],
+                [
+                    13670,
+                    74.7,
+                    10582082,
+                    "Cuba"
+                ],
+                [
+                    28599,
+                    75,
+                    4986705,
+                    "Finland"
+                ],
+                [
+                    29476,
+                    77.1,
+                    56943299,
+                    "France"
+                ],
+                [
+                    31476,
+                    75.4,
+                    78958237,
+                    "Germany"
+                ],
+                [
+                    28666,
+                    78.1,
+                    254830,
+                    "Iceland"
+                ],
+                [
+                    1777,
+                    57.7,
+                    870601776,
+                    "India"
+                ],
+                [
+                    29550,
+                    79.1,
+                    122249285,
+                    "Japan"
+                ],
+                [
+                    2076,
+                    67.9,
+                    20194354,
+                    "North Korea"
+                ],
+                [
+                    12087,
+                    72,
+                    42972254,
+                    "South Korea"
+                ],
+                [
+                    24021,
+                    75.4,
+                    3397534,
+                    "New Zealand"
+                ],
+                [
+                    43296,
+                    76.8,
+                    4240375,
+                    "Norway"
+                ],
+                [
+                    10088,
+                    70.8,
+                    38195258,
+                    "Poland"
+                ],
+                [
+                    19349,
+                    69.6,
+                    147568552,
+                    "Russia"
+                ],
+                [
+                    10670,
+                    67.3,
+                    53994605,
+                    "Turkey"
+                ],
+                [
+                    26424,
+                    75.7,
+                    57110117,
+                    "United Kingdom"
+                ],
+                [
+                    37062,
+                    75.4,
+                    252847810,
+                    "United States"
+                ]
+            ],
+            "label": {
+                "show": false,
+                "position": "top",
+                "margin": 8
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "1990\u5e74"
+            ],
+            "selected": {
+                "1990\u5e74": true
+            },
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "formatter": function (param) {return param.seriesName + ' \u2014 ' +param.data[3]+'<br/>'             +'\u4eba\u5747GDP\uff1a '+param.data[0]+' \u7f8e\u5143<br/>'            +'GDP\u603b\u91cf\uff1a '+param.data[2]+' \u7f8e\u5143<br/>'            +'\u4eba\u5747\u5bff\u547d\uff1a '+param.data[1]+'\u5c81';},
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "xAxis": [
+        {
+            "type": "value",
+            "name": "\u4eba\u5747GDP",
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "show": true,
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            },
+            "data": [
+                28604,
+                31163,
+                1516,
+                13670,
+                28599,
+                29476,
+                31476,
+                28666,
+                1777,
+                29550,
+                2076,
+                12087,
+                24021,
+                43296,
+                10088,
+                19349,
+                10670,
+                26424,
+                37062
+            ]
+        }
+    ],
+    "yAxis": [
+        {
+            "type": "value",
+            "name": "\u4eba\u5747\u5bff\u547d",
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "show": true,
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            }
+        }
+    ],
+    "title": [
+        {
+            "padding": 5,
+            "itemGap": 10
+        }
+    ]
+};
+        chart_ee27f549e78c44949ba5153addd43c84.setOption(option_ee27f549e78c44949ba5153addd43c84);
+    </script>
+</body>
+</html>

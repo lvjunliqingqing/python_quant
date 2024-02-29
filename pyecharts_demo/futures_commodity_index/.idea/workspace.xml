@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c003f0ba-40a5-4916-971b-b8a155a29286" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Binance_demo/案例.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Binance_demo/案例.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Binance_demo/案例2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Binance_demo/案例2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jqdata_demo/从单因子到策略/使用jqfactor_analyzer分析因子.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../jqdata_demo/从单因子到策略/使用jqfactor_analyzer分析因子.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lianxi2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lianxi2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas_demo/groupby的用法/groupby以行和列分组的区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pandas_demo/groupby的用法/groupby以行和列分组的区别.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas_demo/groupby的用法/分组后的常规操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pandas_demo/groupby的用法/分组后的常规操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas_demo/pandas与sqlalchemy读写sql数据库.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pandas_demo/pandas与sqlalchemy读写sql数据库.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas_demo/统计某个数连续出现的次数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pandas_demo/统计某个数连续出现的次数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futures_index_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/futures_index_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../futures_main_position/main_position_price_relationship.py" beforeDir="false" afterPath="$PROJECT_DIR$/../futures_main_position/main_position_price_relationship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k_linear_regression_diagram/calculate_regression_curve.py" beforeDir="false" afterPath="$PROJECT_DIR$/../k_linear_regression_diagram/calculate_regression_curve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k_linear_regression_diagram/k_linear_regression_diagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/../k_linear_regression_diagram/k_linear_regression_diagram_半成品.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k_linear_regression_diagram/k_linear_regression_diagram_假数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/../k_linear_regression_diagram/k_linear_regression_diagram_假数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k_linear_regression_diagram/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../k_linear_regression_diagram/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../k_linear_regression_diagram/point_regression_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/../k_linear_regression_diagram/point_regression_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品长波/上证指数_叠加国际指数_对数轴.py" beforeDir="false" afterPath="$PROJECT_DIR$/../大宗商品长波/上证指数_叠加国际指数_对数轴.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_验证/多进程&amp;多线程/多线程读_多进程算.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_验证/多进程&amp;多线程/多线程读_多进程算.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_验证/多进程&amp;多线程/多进程、返回值、进程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_验证/多进程&amp;多线程/多进程、返回值、进程池.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_验证/多进程&amp;多线程/多进程算_多线程写.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_验证/多进程&amp;多线程/多进程算_多线程写.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../量化策略研究/statistic_analysis/stock_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../量化策略研究/statistic_analysis/stock_data.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="07cc7060-78a0-49e9-a141-692413cc6889" />
+  <component name="ProjectId" id="25awupqXiSAZcRw3Le0FF95gkR6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="三个商品指数图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="futures_commodity_index" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/三个商品指数图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.三个商品指数图" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c003f0ba-40a5-4916-971b-b8a155a29286" name="Default Changelist" comment="" />
+      <created>1645778730753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645778730753</updated>
+      <workItem from="1645778731805" duration="1288000" />
+      <workItem from="1647854747224" duration="15000" />
+      <workItem from="1648032504242" duration="3306000" />
+      <workItem from="1656590286068" duration="174000" />
+      <workItem from="1656597198207" duration="930000" />
+      <workItem from="1660702503694" duration="722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1648088812562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648088812562" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1648088812562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648088812562" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1648088812562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648088812562" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1648088812562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648088812562" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1648088600284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648088600284" />
+    <state x="662" y="252" width="643" height="536" key="find.popup" timestamp="1648037928449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="252" width="643" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1648037928449" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/futures_commodity_index$.coverage" NAME="三个商品指数图 Coverage Results" MODIFIED="1648088669021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

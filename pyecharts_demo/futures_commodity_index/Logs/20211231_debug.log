@@ -1,0 +1,57 @@
+2021-12-31 00:01:08,993 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 00:01:48,914 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 00:12:34,039 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 00:13:44,693 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 00:14:50,328 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 00:15:17,997 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 00:17:38,132 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 00:18:28,126 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 00:21:13,167 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 00:32:18,546 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败
+2021-12-31 00:34:07,901 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:'CommodityIndex' object has no attribute 'table_base'
+2021-12-31 00:36:28,641 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 11:21:58,838 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 11:52:08,138 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 11:53:21,716 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 12:45:06,399 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 12:45:41,286 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 12:48:50,659 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 12:50:11,619 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 12:50:28,914 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 12:51:04,000 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 12:51:47,057 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:'CommodityIndex' object has no attribute 'futures_price_d'
+2021-12-31 12:52:19,494 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 12:54:41,958 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 12:55:55,676 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 12:56:23,309 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 12:56:51,484 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:'contract_value'
+2021-12-31 12:57:31,552 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:'contract_value'
+2021-12-31 13:24:46,059 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:'contract_value'
+2021-12-31 13:25:46,918 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 13:48:56,516 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 13:55:11,284 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 13:55:55,140 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:Row has incorrect number of values, (actual) 7!=5 (expected)
+2021-12-31 13:56:32,653 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:Row has incorrect number of values, (actual) 7!=5 (expected)
+2021-12-31 13:59:12,261 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:'sort_fields'
+2021-12-31 14:08:00,273 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:08:49,468 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:13:57,666 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:'change_pct'
+2021-12-31 14:14:33,593 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:16:34,797 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:17:09,464 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:18:52,050 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:19:04,348 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:19:16,618 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:19:40,878 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:"None of [Index(['display_name', 'trade_date', 'change_pct', 'contribution'], dtype='object')] are in the [index]"
+2021-12-31 14:20:11,235 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:"['contribution', 'change_pct', 'trade_date'] not in index"
+2021-12-31 14:20:30,821 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行失败,原因:"['contribution', 'trade_date', 'change_pct'] not in index"
+2021-12-31 14:21:05,080 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:26:02,144 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:27:28,202 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:29:31,073 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:30:12,939 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:35:49,790 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:37:42,583 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:39:50,451 - Logger.py[line:32] - INFO: 三个商品指数定时任务执行成功
+2021-12-31 14:42:49,321 - Logger.py[line:32] - INFO: 自构建的商品指数k线执行成功
+2021-12-31 14:52:51,383 - Logger.py[line:32] - INFO: 自构建的商品指数k线执行成功
