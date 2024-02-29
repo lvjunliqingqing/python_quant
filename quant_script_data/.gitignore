@@ -1,0 +1,6 @@
+filter_dispose/__pycache__/load_wirte_json.cpython-37.pyc
+get_jq_history_data/filter_xls_data_to_csv.json
+get_jq_history_data/main_breed_record.json
+.idea/*
+venv/*
+international_index/东方财富爬取的_国际指数数据.csv
